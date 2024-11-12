@@ -1,5 +1,5 @@
 import pytest
-from .main import binary_search
+from main import binary_search
 
 def test_target_found_in_middle():
     arr = [1, 2, 3, 4, 5]
